@@ -1,0 +1,107 @@
+<!DOCTYPE html >
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <title>Burger Week</title>
+  <style>
+    /* Always set the map height explicitly to define the size of the div
+     * element that contains the map. */
+    #map {
+      height: 100%;
+    }
+    /* Optional: Makes the sample page fill the window. */
+    html, body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+
+    #burgers {
+      padding-top: 5px;
+    }
+
+    .burger {
+      float: left;
+      width: 150px;
+      border: 1px solid black;
+      height: 160px;
+      margin: auto;
+      text-align: center;
+    }
+
+    .burger img {
+      width: 100px;
+    }
+ </style>
+  </head>
+  <body style="margin:0px; padding:0px;" onload="initMap()">
+    <div id="map" style="width: 100%; height: 50%"></div>
+    <div id="burgers" style="width: 100%; height: 50%; overflow-y: scroll;"></div>
+    <script>
+      var map;
+      var markers = [];
+      var infoWindow;
+      var kmlLayer;
+      var geoXml;
+      var geoXmlDoc;
+
+      function initMap() {
+        var winnipeg = {lat: 49.8951, lng: -97.1384};
+        map = new google.maps.Map(document.getElementById('map'), {
+          center: winnipeg,
+          zoom: 11,
+          mapTypeId: 'roadmap',
+          mapTypeControlOptions: {style: google.maps.MapTypeControlStyle.DROPDOWN_MENU}
+        });
+        infoWindow = new google.maps.InfoWindow();
+        geoXml = new geoXML3.parser({
+          map: map,
+          singleInfoWindow: true,
+          afterParse: useTheData
+        });
+
+        geoXml.parse('data.kml')
+
+        google.maps.event.addListener(map, 'bounds_changed', redraw);
+        google.maps.event.addListener(map, 'center_changed', redraw);
+        google.maps.event.addListener(map, 'zoom_changed', redraw);
+      }
+
+      function useTheData(d) {
+        geoXmlDoc = d[0];
+      }
+
+      function redraw() {
+        var bounds = map.getBounds();
+        var sidebar = $("#burgers");
+        if (!bounds)
+          return;
+
+        if (!geoXmlDoc || !geoXmlDoc.placemarks)
+          return;
+
+
+        sidebar.empty();
+
+        for (var i = 0; i < geoXmlDoc.placemarks.length; i++) {
+          var placemark = geoXmlDoc.placemarks[i];
+          var position = placemark.marker.getPosition();
+
+          if (bounds.contains(position)) {
+            var div = $("<div>").addClass("burger");
+            div.html(placemark.description);
+
+            sidebar.append(div);
+          }
+
+        }
+      }
+
+</script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB6jlPlNgxNgi9IhvLtdL3fwhhm6dE0mu4">
+    </script>
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+    <script src="geoxml3.js"></script>
+  </body>
+</html>

@@ -1,0 +1,1298 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="wpg-burgs-01">
+    <name>Winnipeg Burgers</name>
+    <description>Burger week locations</description>
+    <visibility>1</visibility>
+    <Folder id="f01">
+      <name>Burgers</name>
+      <visibility>1</visibility>
+      <Placemark id="15T-0G8-182">
+        <name>Nuburger</name>
+        <description>
+    Nuburger &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/15T-0G8-182"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--s2nJThoa--/c_limit,h_300,w_300/v1503683723/7402/6dd8c18612cb79faa98610736dcf736d"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.145409,49.877438</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="581-1J6-1C1">
+        <name>The Pint</name>
+        <description>
+    The Pint &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/581-1J6-1C1"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--wXZfLqDQ--/c_limit,h_300,w_300/v1503883688/7402/bc1b31f47f677ff41461a6ab1b2ab488"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.140533,49.893303</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="PH2-696-673">
+        <name>Triple B's Restaurant Bar &amp; Billiard's</name>
+        <description>
+    Triple B's Restaurant Bar &amp; Billiard's &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/PH2-696-673"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--VaZoEUkw--/c_limit,h_300,w_300/v1503535399/7402/4477dae1c65d19f1121a61ef77e23eee"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.194016,49.817345</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="X25-9U6-849">
+        <name>Tipsy Cow</name>
+        <description>
+    Tipsy Cow &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/X25-9U6-849"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--L4WHTgJH--/c_limit,h_300,w_300/v1503535299/7402/a4f3295666ffa47241641878edc014d9"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.142677,49.894184</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="P67-672-E83">
+        <name>The Roost on Corydon</name>
+        <description>
+    The Roost on Corydon &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/P67-672-E83"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--9bvIP3I5--/c_limit,h_300,w_300/v1503535178/7402/74f6064c8bfbfc10697380c85dca2622"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.149948,49.872150</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="YH2-489-978">
+        <name>Olympia Diner</name>
+        <description>
+    Olympia Diner &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/YH2-489-978"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--EZLFDU3m--/c_limit,h_300,w_300/v1503883617/7402/3f289eada0258a2df06dac4c35eeeba9"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.292236,49.881824</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="265-T46-D46">
+        <name>Oakwood Cafe</name>
+        <description>
+    Oakwood Cafe &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/265-T46-D46"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--DDQ9iTAl--/c_limit,h_300,w_300/v1503515383/7402/07de4290920ccbd098dd8fa488d43f2a"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.132294,49.863155</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="2F7-1Y1-566">
+        <name>The Merchant Kitchen</name>
+        <description>
+    The Merchant Kitchen &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/2F7-1Y1-566"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--vfBVPnzl--/c_limit,h_300,w_300/v1503883719/7402/6fb2c7631f849506fe24b082fb57a898"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.143944,49.894100</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="9F1-22R-085">
+        <name>The Handsome Daughter</name>
+        <description>
+    The Handsome Daughter &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/9F1-22R-085"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--DsBDbvrj--/c_limit,h_300,w_300/v1503514862/7402/77ed57bf97b54c46f01cdaf90dfefdc8"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.159164,49.880543</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="318-8T1-W03">
+        <name>The Grove Pub &amp; Restaurant</name>
+        <description>
+    The Grove Pub &amp; Restaurant &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/318-8T1-W03"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--8N6hc9eo--/c_limit,h_300,w_300/v1503514768/7402/8c42d753b0ae634f7ff844d6befa707e"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.163239,49.870743</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="4D0-6V4-355">
+        <name>The Cornerstone Bar and Restaurant</name>
+        <description>
+    The Cornerstone Bar and Restaurant &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/4D0-6V4-355"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--aX8vAkcF--/c_limit,h_300,w_300/v1503514659/7402/e2079c4ac9fc25994ed5d66ad7345f39"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.146507,49.879009</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="15H-568-2D0">
+        <name>The Canadian Brewhouse</name>
+        <description>
+    The Canadian Brewhouse &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/15H-568-2D0"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--PQX71HLh--/c_limit,h_300,w_300/v1503514487/7402/58e0cf1cb538562c6ec7c57adc72ada2"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.197243,49.820469</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="114-5UR-084">
+        <name>The Metropolitan Entertainment Centre by Canad Inns</name>
+        <description>
+    The Metropolitan Entertainment Centre by Canad Inns &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/114-5UR-084"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--3UltIev5--/c_limit,h_300,w_300/v1503514285/7402/cbd28ee0da3c22ffce3e0ce4806bd0b4"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.142952,49.893093</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="720-4UJ-390">
+        <name>Teo's &amp; Mano A Mano Restaurant</name>
+        <description>
+    Teo's &amp; Mano A Mano Restaurant &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/720-4UJ-390"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--8ZGSQ2cN--/c_limit,h_300,w_300/v1503883756/7402/d2d0f2f1fcd42fffa1c5416d7ba0e9e4"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.151474,49.871559</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="156-619-RX7">
+        <name>Tavern United MTS Centre</name>
+        <description>
+    Tavern United MTS Centre &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/156-619-RX7"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--nr3X5omc--/c_limit,h_300,w_300/v1503883812/7402/dad68358dfd661c9cd8afdc526327a75"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.144470,49.891891</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Z19-176-T89">
+        <name>Tapp's Neighbourhood Pub</name>
+        <description>
+    Tapp's Neighbourhood Pub &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/Z19-176-T89"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--nQBNmaCN--/c_limit,h_300,w_300/v1503513736/7402/7298105081ddc95b58a07dc3f1983b03"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.112793,49.835018</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="181-42H-4X7">
+        <name>Sydney's at The Forks</name>
+        <description>
+    Sydney's at The Forks &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/181-42H-4X7"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--fpTGHjMS--/c_limit,h_300,w_300/v1503513636/7402/d06139a4e3fc397962b9789d7be94218"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.131165,49.886848</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="5WC-479-725">
+        <name>Summit Cafe Inc</name>
+        <description>
+    Summit Cafe Inc &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/5WC-479-725"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--C-W0FiJe--/c_limit,h_300,w_300/v1503513460/7402/b50d2e750f38d94774c295b124aac7d1"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.219162,50.087753</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="305-509-KN9">
+        <name>State &amp; Main Kitchen &amp; Bar</name>
+        <description>
+    State &amp; Main Kitchen &amp; Bar &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/305-509-KN9"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--ISoZfWCW--/c_limit,h_300,w_300/v1503513100/7402/bb6228ff1d068b72c3e615a680f9aafc"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.059998,49.897907</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="945-51V-D94">
+        <name>Sous Sol</name>
+        <description>
+    Sous Sol &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/945-51V-D94"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--Dn2LJ4Bj--/c_limit,h_300,w_300/v1503512978/7402/f40ba0ac084ff309a2ef4459d326c1ba"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.142349,49.875626</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="20X-55G-186">
+        <name>Smitty's Family Restaurant</name>
+        <description>
+    Smitty's Family Restaurant &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/20X-55G-186"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--Yju0LQOA--/c_limit,h_300,w_300/v1503512762/7402/7a229ae3f267b6acd875e0b51bf8182c"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.111214,49.825512</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="196-43R-9E9">
+        <name>Silver Heights Restaurant</name>
+        <description>
+    Silver Heights Restaurant &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/196-43R-9E9"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--kR9_lKfY--/c_limit,h_300,w_300/v1503512622/7402/0f5e21878e3fea09863b255ac42db827"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.238838,49.877007</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="454-011-HF4">
+        <name>Sherbrook Street Delicatessen</name>
+        <description>
+    Sherbrook Street Delicatessen &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/454-011-HF4"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--Y7hPLF6q--/c_limit,h_300,w_300/v1503883873/7402/ce947f2e81878650e5549ac966d249cc"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.159737,49.882015</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="3W1-9C4-818">
+        <name>Shawarma Khan</name>
+        <description>
+    Shawarma Khan &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/3W1-9C4-818"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--aceBpYNg--/c_limit,h_300,w_300/v1503512363/7402/4422dd496197c5bcd39abd11607b092f"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.140099,49.897167</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="6V7-G95-466">
+        <name>Shark Club Winnipeg</name>
+        <description>
+    Shark Club Winnipeg &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/6V7-G95-466"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--ZvWX37sC--/c_limit,h_300,w_300/v1503512229/7402/c2f01d72e9f8f86145f2f18c55fd3275"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.143349,49.891392</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="924-C1X-784">
+        <name>Shannon's Irish Pub and Eatery</name>
+        <description>
+    Shannon's Irish Pub and Eatery &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/924-C1X-784"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--3yZVjPmd--/c_limit,h_300,w_300/v1503512148/7402/ee60dc2d7cbfa0afcb8a470207af362a"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.143951,49.889366</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="9J0-164-B41">
+        <name>Saucers Cafe</name>
+        <description>
+    Saucers Cafe &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/9J0-164-B41"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--WwLZz4PM--/c_limit,h_300,w_300/v1504054493/7402/3521158b6086227161258ffb76e7561b"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.198257,49.874168</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="658-SH2-445">
+        <name>Santa Lucia Pizza</name>
+        <description>
+    Santa Lucia Pizza &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/658-SH2-445"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--nacNpZxc--/c_limit,h_300,w_300/v1503511989/7402/b5078c2bc81fc86665b1fc359edcbca6"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.123489,49.927845</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="S6K-991-479">
+        <name>Salisbury House</name>
+        <description>
+    Salisbury House &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/S6K-991-479"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--VPtH5TWv--/c_limit,h_300,w_300/v1503511843/7402/96de860a648df4b49d2de5f1aa7502fb"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.152428,49.857639</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="315-43J-1A8">
+        <name>Saddlery on Market</name>
+        <description>
+    Saddlery on Market &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/315-43J-1A8"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--ekme2tWQ--/c_limit,h_300,w_300/v1503711779/7402/f6cb527da910a4f959a18db3cf4b2f77"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.134964,49.898117</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="W90-N34-139">
+        <name>Rudy's Eat &amp; Drink</name>
+        <description>
+    Rudy's Eat &amp; Drink &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/W90-N34-139"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--AlLaRBOE--/c_limit,h_300,w_300/v1503511540/7402/285fc202af0795b008f45fde21aec876"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.145874,49.891640</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="T37-309-1S7">
+        <name>50 Sage Creek Blvd</name>
+        <description>
+    50 Sage Creek Blvd &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/T37-309-1S7"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--41L2ySdk--/c_limit,h_300,w_300/v1503505400/7402/4d29e0dcb4f03e3ee86637d192e93879"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.047607,49.832752</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="W26-84E-467">
+        <name>Rae's Bistro and Lounge</name>
+        <description>
+    Rae's Bistro and Lounge &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/W26-84E-467"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--VWcoY6CY--/c_limit,h_300,w_300/v1503505203/7402/8dc6aa9ee3a5c453992a7483466fcdbb"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.035339,49.944744</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="A9K-990-322">
+        <name>Promenade Cafe and Wine</name>
+        <description>
+    Promenade Cafe and Wine &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/A9K-990-322"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--4o3Q6mFI--/c_limit,h_300,w_300/v1503883920/7402/3fe3aacdb80d03e9ff267ecfffa31b9a"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.124641,49.891163</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="591-6E4-F96">
+        <name>Prairie Ink Restaurant</name>
+        <description>
+    Prairie Ink Restaurant &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/591-6E4-F96"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--30H0WbZH--/c_limit,h_300,w_300/v1503535524/7402/003e9d32ea9cd2f1e60ed4baa521a073"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.165543,49.857693</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="J74-527-20L">
+        <name>Prairie 360</name>
+        <description>
+    Prairie 360 &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/J74-527-20L"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--t0Sifr93--/c_limit,h_300,w_300/v1503883957/7402/1aaed852d98c9ae142b19d1b5bb65b7f"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.136024,49.887291</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="7L7-5P0-652">
+        <name>Pizzeria Gusto</name>
+        <description>
+    Pizzeria Gusto &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/7L7-5P0-652"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--IPb_7k-o--/c_limit,h_300,w_300/v1503504639/7402/60927c6d5afa160c14a6a5c083e95bbb"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.183495,49.873627</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="6L1-G86-971">
+        <name>Underdogs</name>
+        <description>
+    Underdogs &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/6L1-G86-971"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--TVcNFY_F--/c_limit,h_300,w_300/v1503458783/7402/4bf4aad7374f39176bda3353295024ff"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.266541,49.876804</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="70H-809-Z74">
+        <name>PEG Beer Co.</name>
+        <description>
+    PEG Beer Co. &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/70H-809-Z74"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--5p0qKaWO--/c_limit,h_300,w_300/v1503458672/7402/4f5c0f22f511391ae572d0712ad89cc3"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.134109,49.900326</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="8V4-106-10S">
+        <name>Fairmont Winnipeg</name>
+        <description>
+    Fairmont Winnipeg &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/8V4-106-10S"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--wk9m71HZ--/c_limit,h_300,w_300/v1503458427/7402/e0b388919873a88e8e316c6b4f22b315"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.136993,49.895840</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="154-33P-M73">
+        <name>Park Cafe</name>
+        <description>
+    Park Cafe &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/154-33P-M73"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--Iv3mjMzX--/c_limit,h_300,w_300/v1503458431/7402/4be75bc3e227eeae15cfaf633b30bba7"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.233559,49.873230</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="353-2L8-1W7">
+        <name>Vicky's Diner</name>
+        <description>
+    Vicky's Diner &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/353-2L8-1W7"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--jI55_zZ1--/c_limit,h_300,w_300/v1503458308/7402/8614d1a03748c6a213a8b4277101db86"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.140778,49.896423</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="9X1-346-8E6">
+        <name>Original Joe's Restaurant &amp; Bar</name>
+        <description>
+    Original Joe's Restaurant &amp; Bar &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/9X1-346-8E6"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--aZeRjuiJ--/c_limit,h_300,w_300/v1503458135/7402/d2fc39ba3cf94465c16449e5278ffae5"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.206238,49.857681</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="127-5J8-07T">
+        <name>Original Joe's Restaurant &amp; Bar</name>
+        <description>
+    Original Joe's Restaurant &amp; Bar &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/127-5J8-07T"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--l5c4TwAg--/c_limit,h_300,w_300/v1503457850/7402/d79da4640fc3ded1aefa611e9f11b8fc"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.314522,49.882729</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="9K6-990-Y27">
+        <name>Original Joe's Restaurant &amp; Bar</name>
+        <description>
+    Original Joe's Restaurant &amp; Bar &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/9K6-990-Y27"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--vLWGu_ej--/c_limit,h_300,w_300/v1503457571/7402/6409ed5628c5afcefba9c2986e6532c2"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.115746,49.828148</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1K8-387-64W">
+        <name>One Great City Brewing Company</name>
+        <description>
+    One Great City Brewing Company &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/1K8-387-64W"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--RcUWVVMc--/c_limit,h_300,w_300/v1503457258/7402/1406f004bfdb0fa588ebc680a55d883d"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.203255,49.883190</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="667-972-M6Z">
+        <name>Nuburger</name>
+        <description>
+    Nuburger &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/667-972-M6Z"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--sH2R0N3W--/c_limit,h_300,w_300/v1503535602/7402/af8adb61555e22e7ece3f8bc8762ef10"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.204033,49.822147</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="4H0-P20-340">
+        <name>Nuburger</name>
+        <description>
+    Nuburger &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/4H0-P20-340"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--EjLPsI0W--/c_limit,h_300,w_300/v1503535832/7402/a93b833da52af26614186c559f51ec74"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.131500,49.887096</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="894-86T-X48">
+        <name>The North Star Drive-In</name>
+        <description>
+    The North Star Drive-In &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/894-86T-X48"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--NxMjHcqj--/c_limit,h_300,w_300/v1503884009/7402/84297ee345d1b4d2233253972499da33"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.139824,49.928581</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="5V2-50B-777">
+        <name>Nobside Cafe</name>
+        <description>
+    Nobside Cafe &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/5V2-50B-777"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--94XM2XUl--/c_limit,h_300,w_300/v1503884062/7402/21fcfdf2b7d04e56b7081932ca8ea247"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.153198,49.765755</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="C47-F68-129">
+        <name>Nite Hawk Cafe</name>
+        <description>
+    Nite Hawk Cafe &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/C47-F68-129"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--zqW3Zoq---/c_limit,h_300,w_300/v1503711377/7402/68660184e2da8f5f97d3afbf9ecd303b"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-95.217766,49.746536</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="28L-549-15G">
+        <name>Moxie's Grill &amp; Bar</name>
+        <description>
+    Moxie's Grill &amp; Bar &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/28L-549-15G"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--N6_w8J9l--/c_limit,h_300,w_300/v1503711847/7402/cf7042f58aceb45e3380b649ead56679"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.198624,49.882202</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="301-17W-C21">
+        <name>Mona Lisa Ristorante Italiano</name>
+        <description>
+    Mona Lisa Ristorante Italiano &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/301-17W-C21"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--PqRVLJwA--/c_limit,h_300,w_300/v1503456699/7402/7d0edf38cdef97e48dafe9566e9fb521"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.196823,49.863960</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="943-232-6XH">
+        <name>Mon Ami Louis</name>
+        <description>
+    Mon Ami Louis &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/943-232-6XH"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--GkCrPEwI--/c_limit,h_300,w_300/v1503456627/7402/1c2bab55b23e2c1210c214a69c5266ca"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.127228,49.890591</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="2Z0-2L9-873">
+        <name>Miss Browns</name>
+        <description>
+    Miss Browns &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/2Z0-2L9-873"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--xSLJr1RR--/c_limit,h_300,w_300/v1503456595/7402/a83ca0f209b31876c5d9a4acf5ba6273"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.140869,49.899273</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="E68-590-31F">
+        <name>Market Burger</name>
+        <description>
+    Market Burger &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/E68-590-31F"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--8xqfGEUm--/c_limit,h_300,w_300/v1503884719/7402/1f84001f54c8b2d7e0244f7a44595c59"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.149750,49.872223</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="2Z2-06V-725">
+        <name>Marion Street Eatery</name>
+        <description>
+    Marion Street Eatery &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/2Z2-06V-725"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--NIwXkCMo--/c_limit,h_300,w_300/v1503456534/7402/9396a4743b24538864263d98aa8243a2"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.109177,49.882195</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="156-856-F3W">
+        <name>Le Garage Cafe</name>
+        <description>
+    Le Garage Cafe &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/156-856-F3W"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--fkcFYgxY--/c_limit,h_300,w_300/v1503884781/7402/415215c4f1eaf2dd742d8a832031c39b"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.122864,49.891727</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="L20-763-4U9">
+        <name>La Roca</name>
+        <description>
+    La Roca &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/L20-763-4U9"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--C3v0Xy7W--/c_limit,h_300,w_300/v1503454358/7402/e6394f77dacfe26d52fdf03d4d97caf9"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.139671,49.889736</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="915-8WM-190">
+        <name>Kyu Slice</name>
+        <description>
+    Kyu Slice &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/915-8WM-190"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--eMnY3bDd--/c_limit,h_300,w_300/v1503456456/7402/993362e44269c6a0b7c7fcc1fef081d7"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.152969,49.851074</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="956-73S-32W">
+        <name>Kyu Grill</name>
+        <description>
+    Kyu Grill &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/956-73S-32W"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--42Mzt5Em--/c_limit,h_300,w_300/v1503885427/7402/69f4902fde9ae239ef8323596848aa69"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.131523,49.887012</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="T68-60N-914">
+        <name>Reset Interactive Ultralounge</name>
+        <description>
+    Reset Interactive Ultralounge &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/T68-60N-914"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--L7FPxVKE--/c_limit,h_300,w_300/v1503885306/7402/2e90fe5b59bd3b00782a326ff8c76357"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.155090,49.820557</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="584-1Y9-J52">
+        <name>Kyu Bochi</name>
+        <description>
+    Kyu Bochi &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/584-1Y9-J52"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--8ZUTmcO5--/c_limit,h_300,w_300/v1503885374/7402/4aae51145e2ff86e291c7b10104a537f"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.160858,49.910477</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="622-G8W-069">
+        <name>Kyu Bistro</name>
+        <description>
+    Kyu Bistro &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/622-G8W-069"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--G7JmGcO3--/c_limit,h_300,w_300/v1503454406/7402/c416383a27e1697d8fa6cf35fa37b462"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.148094,49.903381</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="75A-9W7-209">
+        <name>Kristina’s on Corydon</name>
+        <description>
+    Kristina’s on Corydon &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/75A-9W7-209"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--t9Iu5M9n--/c_limit,h_300,w_300/v1503971939/7402/b80d1532259a1b5d79eaed71e4a072ca"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.153969,49.870762</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="888-L70-65C">
+        <name>King   Bannatyne</name>
+        <description>
+    King   Bannatyne &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/888-L70-65C"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--oM_87y6H--/c_limit,h_300,w_300/v1503454215/7402/9038832ade18139df50fb309f117184b"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.141258,49.898224</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="964-Y16-6W9">
+        <name>Jonesy's Restaurant &amp; Bar</name>
+        <description>
+    Jonesy's Restaurant &amp; Bar &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/964-Y16-6W9"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--sKMCZRP8--/c_limit,h_300,w_300/v1503711635/7402/6fdddbefb55cca9965ef43cd2e8b57be"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.006561,49.974167</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="355-5DV-004">
+        <name>Inferno's on Academy</name>
+        <description>
+    Inferno's on Academy &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/355-5DV-004"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--ZfHSrL9D--/c_limit,h_300,w_300/v1503457121/7402/3c3187852a8712b33d239088a2726862"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.184296,49.873703</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="8W5-Z94-001">
+        <name>Hy's Steakhouse and Cocktail Bar</name>
+        <description>
+    Hy's Steakhouse and Cocktail Bar &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/8W5-Z94-001"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--zWwdZQCn--/c_limit,h_300,w_300/v1503452662/7402/544bf5fa73129b850decf699272e3c9f"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.138306,49.896225</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="208-4X4-88F">
+        <name>Helios Restaurant</name>
+        <description>
+    Helios Restaurant &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/208-4X4-88F"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--BygGs-OS--/c_limit,h_300,w_300/v1503452624/7402/ce2a6f2ca1c1b3a17321adb5c1fe3232"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.116959,49.874859</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="3X8-053-N17">
+        <name>Have a Nice Day</name>
+        <description>
+    Have a Nice Day &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/3X8-053-N17"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--vJkwRiuu--/c_limit,h_300,w_300/v1503452587/7402/4400426d1b50118ee34c2cf11e75d529"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.157997,49.888901</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="456-5R7-23P">
+        <name>Four Points by Sheraton Winnipeg South</name>
+        <description>
+    Four Points by Sheraton Winnipeg South &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/456-5R7-23P"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--gyijJtS1--/c_limit,h_300,w_300/v1503884219/7402/25b9b59ee6bd0a6dc145a9385ed613ca"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.158257,49.786652</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="254-6A0-E80">
+        <name>Fionn's Grant Park</name>
+        <description>
+    Fionn's Grant Park &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/254-6A0-E80"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--mwFbyEe2--/c_limit,h_300,w_300/v1503884330/7402/602b7ca7ec59d88f56f3aca52cf29076"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.167496,49.857933</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="4F8-712-7G1">
+        <name>ERA Bistro</name>
+        <description>
+    ERA Bistro &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/4F8-712-7G1"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--L3sT-Taa--/c_limit,h_300,w_300/v1503884588/7402/6530ea83394e11000a6b2cb580398770"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.130692,49.890842</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="419-FC8-305">
+        <name>Elephant &amp; Castle</name>
+        <description>
+    Elephant &amp; Castle &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/419-FC8-305"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--3FIQoRax--/c_limit,h_300,w_300/v1503452264/7402/b89fa6abf4b29943b44e3a1b60f1da34"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.143608,49.890053</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="438-8X8-72J">
+        <name>Deer   Almond</name>
+        <description>
+    Deer   Almond &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/438-8X8-72J"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--2o1uVkGG--/c_limit,h_300,w_300/v1503972977/7402/4cbbb8bb363bdb901bf93f8cea9f9a04"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.142456,49.897861</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="S30-304-26V">
+        <name>Crème DeL'Essence</name>
+        <description>
+    Crème DeL'Essence &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/S30-304-26V"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--cU0F2Ep5--/c_limit,h_300,w_300/v1503452220/7402/88398839cf3a0eb010b4d3659c3499d3"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.193382,49.946243</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="888-1T4-36E">
+        <name>Confusion Corner Bar &amp; Grill</name>
+        <description>
+    Confusion Corner Bar &amp; Grill &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/888-1T4-36E"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--lDb4yGZX--/c_limit,h_300,w_300/v1503885472/7402/c4c8f1c28e10ab809c65624c556140e5"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.143433,49.873924</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="33F-A26-199">
+        <name>Clementine</name>
+        <description>
+    Clementine &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/33F-A26-199"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--m5mQ90-c--/c_limit,h_300,w_300/v1503452034/7402/3fa008bc0003372b4cb1c1ec88900abf"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.141632,49.898968</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="2S1-204-0N6">
+        <name>Cibo Waterfront Cafe</name>
+        <description>
+    Cibo Waterfront Cafe &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/2S1-204-0N6"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--Q6fAYS_s--/c_limit,h_300,w_300/v1503451955/7402/a9f982caacb02cd26c5ad74fecaa19bf"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.131973,49.898808</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="V51-668-98S">
+        <name>Chosabi</name>
+        <description>
+    Chosabi &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/V51-668-98S"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--BSfp5Fgc--/c_limit,h_300,w_300/v1503884551/7402/717be9f1ad1ebce5be04bd048a3d85f0"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.141380,49.898041</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="801-4Z7-N75">
+        <name>Chop Steakhouse &amp; Bar</name>
+        <description>
+    Chop Steakhouse &amp; Bar &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/801-4Z7-N75"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--Iwdhw8w4--/c_limit,h_300,w_300/v1503884495/7402/0aee2a062ea1316f838dd16184f12ef8"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.203377,49.897476</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="M75-459-K24">
+        <name>Victoria Inn Hotel &amp; Convention Centre</name>
+        <description>
+    Victoria Inn Hotel &amp; Convention Centre &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/M75-459-K24"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--VwgW6-sA--/c_limit,h_300,w_300/v1503451766/7402/3846a66acf8d30c873de2cfa5c6689e9"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.211266,49.900646</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="577-U2L-951">
+        <name>Chew Restaurant</name>
+        <description>
+    Chew Restaurant &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/577-U2L-951"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--cSMNVNxH--/c_limit,h_300,w_300/v1503451698/7402/8977dcb4e28b35afe1ff661ed6381322"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.184288,49.863010</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="377-R74-X25">
+        <name>Carnaval Brazilian BBQ</name>
+        <description>
+    Carnaval Brazilian BBQ &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/377-R74-X25"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--aIUT8syH--/c_limit,h_300,w_300/v1503884464/7402/a97b92659a219290f4f07ecd3557f6ad"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.133881,49.897263</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="F54-6F9-954">
+        <name>Carbone Coal Fired Pizza</name>
+        <description>
+    Carbone Coal Fired Pizza &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/F54-6F9-954"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--q1zgKf4j--/c_limit,h_300,w_300/v1503451590/7402/a5788abc9b735148f84a3f6309614712"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.139633,49.890881</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="49W-S19-187">
+        <name>Browns Socialhouse Kildonan Green</name>
+        <description>
+    Browns Socialhouse Kildonan Green &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/49W-S19-187"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--DKuXu6u9--/c_limit,h_300,w_300/v1503451380/7402/db0e825cd068415fd135f66960c0da93"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.027092,49.909595</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="986-84W-A53">
+        <name>Brazen Hall Kitchen &amp; Brewery</name>
+        <description>
+    Brazen Hall Kitchen &amp; Brewery &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/986-84W-A53"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--0xw7j-ec--/c_limit,h_300,w_300/v1503451340/7402/980aac2fca1c6a9175060e11ade79a44"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.151207,49.857388</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="4U1-1V2-859">
+        <name>Bouchée Boucher</name>
+        <description>
+    Bouchée Boucher &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/4U1-1V2-859"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--EEr_gyQm--/c_limit,h_300,w_300/v1503451300/7402/9136e876b1f0f14cff7c7f6a9d95cf3b"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.123207,49.881294</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="907-F9H-845">
+        <name>Boston Pizza</name>
+        <description>
+    Boston Pizza &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/907-F9H-845"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--_o5x3vTn--/c_limit,h_300,w_300/v1503451173/7402/1b79305b6a439393cc3a79be28863aff"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.204102,49.823368</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="667-596-U7U">
+        <name>Blaze Bistro and Lounge</name>
+        <description>
+    Blaze Bistro and Lounge &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/667-596-U7U"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--ZUVpQsOz--/c_limit,h_300,w_300/v1503884415/7402/0c39d5b6be7218a347c7ea4fb94ec340"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.143608,49.890053</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="32U-949-S06">
+        <name>Big Smoke Burger</name>
+        <description>
+    Big Smoke Burger &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/32U-949-S06"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--Qq6htQjn--/c_limit,h_300,w_300/v1503450527/7402/76122d40002814c11d6aa4b829900960"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.213432,49.846146</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="993-H31-1P3">
+        <name>Bernstein's Deli</name>
+        <description>
+    Bernstein's Deli &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/993-H31-1P3"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--UyVWmock--/c_limit,h_300,w_300/v1503450999/7402/686c6d81d28bee0d1614369f92000239"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.197502,49.863110</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="5T3-4S2-172">
+        <name>Barley Brothers</name>
+        <description>
+    Barley Brothers &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/5T3-4S2-172"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--kDI97psV--/c_limit,h_300,w_300/v1503884385/7402/03ed6995588c32498cb531110f509a81"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.153122,49.817310</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="6M8-Z11-681">
+        <name>After Dark Lounge</name>
+        <description>
+    After Dark Lounge &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/6M8-Z11-681"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--sqKr1Hgs--/c_limit,h_300,w_300/v1503450892/7402/bd665ca73b8717bd42e1968c68a46dfa"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.146027,49.878208</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="33T-H74-889">
+        <name>1958 Community Cafe</name>
+        <description>
+    1958 Community Cafe &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/33T-H74-889"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--s-jED05Q--/c_limit,h_300,w_300/v1503884353/7402/6b2ef98e4e51c07c0bd8e2bab147d56a"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.164574,49.882092</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="6Z5-178-0Y2">
+        <name>Peasant Cookery</name>
+        <description>
+    Peasant Cookery &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/6Z5-178-0Y2"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--QSlTCQVP--/c_limit,h_300,w_300/v1503972096/7402/faba4a72528391e592d43730773deec5"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.141273,49.898449</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="29T-053-5E7">
+        <name>Boon Burger</name>
+        <description>
+    Boon Burger &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/29T-053-5E7"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--zBW_6SlS--/c_limit,h_300,w_300/v1503973415/7402/2c11dcb677f4073b51b3aa4c3dba0ec9"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.159294,49.881035</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="624-28N-M59">
+        <name>Oscar's Deli</name>
+        <description>
+    Oscar's Deli &lt;br /&gt;
+    &lt;a href="https://artmoi.com/creation/624-28N-M59"&gt;
+    &lt;img src="https://res.cloudinary.com/artmoi/image/upload/s--hqG2R3y7--/c_limit,h_300,w_300/v1503973844/7402/75d9743d3b1c3e6a7060bd8fb9463c25"&gt;
+    &lt;/a&gt;
+    </description>
+        <visibility>1</visibility>
+        <Point>
+          <coordinates>-97.142303,49.889557</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
